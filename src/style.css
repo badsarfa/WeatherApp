@@ -1,0 +1,93 @@
+
+.container {
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(137, 137, 229);
+    padding-top: 60px;
+}
+
+.Weather {
+    width: 380px;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    margin: 0px auto;
+    background: linear-gradient(130deg, rgb(86, 86, 235), rgb(5, 5, 199));
+}
+
+.Search {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Search input {
+    border: none;
+    outline: 0;
+    padding: 12px 25px;
+    font-size: 18px;
+    background-color: white;
+    color: black;
+    border-radius: 30px;
+    flex: 1;
+    margin-right: 12px;
+}
+
+.Search button {
+    border: none;
+    outline: 0;
+    width: 50px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.Search button img {
+    width: 80%;
+}
+
+.winfo .icon{
+   margin-top: 20px;
+   width: 170px;
+}
+
+.winfo h1 {
+    font-size: 70px;
+    font-weight: 500;
+    margin-top: 5px;
+}
+
+.winfo h2 {
+    font-size: 40px;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+.details {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 20px;
+    margin-top: 20px;
+}
+
+.details .col {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    /* line-height: 30px; */
+}
+
+.details .col img {
+    width: 45px;
+    margin-left: 10px;
+}
+
+.humidity, .wind {
+    font-size: 20px;
+}
+
+.humidity p, .wind p {
+    margin: 0px;
+}
