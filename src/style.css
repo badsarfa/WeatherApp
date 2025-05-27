@@ -121,7 +121,7 @@ body {
 
 /* ✅ MOBILE OPTIMIZATION */
 
-@media (max-width: 400px) {
+@media (max-width: 320px) {
     .Search {
         flex-direction: column;
         align-items: stretch;
