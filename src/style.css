@@ -13,7 +13,7 @@ body {
 .container {
     width: 100%;
     min-height: 100vh;
-    padding: 60px 16px 30px;
+    padding: 30px 16px 30px;
     display: flex;
     align-items: center;
     justify-content: center;
