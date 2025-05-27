@@ -7,7 +7,7 @@
 }
 
 .Weather {
-    width: 410px;
+    width: 420px;
     padding: 30px;
     border-radius: 10px;
     text-align: center;
@@ -37,14 +37,14 @@
 .Search button {
     border: none;
     outline: 0;
-    width: 50px;
-    height: 50px;
+    width: 55px;
+    height: 48px;
     border-radius: 50%;
     cursor: pointer;
 }
 
 .Search button img {
-    width: 70%;
+    width: 80%;
 }
 
 .winfo .icon{
