@@ -7,7 +7,7 @@
 }
 
 .Weather {
-    width: 380px;
+    width: 410px;
     padding: 30px;
     border-radius: 10px;
     text-align: center;
@@ -25,7 +25,7 @@
 .Search input {
     border: none;
     outline: 0;
-    padding: 12px 25px;
+    padding: 13px 25px;
     font-size: 18px;
     background-color: white;
     color: black;
@@ -38,13 +38,13 @@
     border: none;
     outline: 0;
     width: 50px;
-    height: 40px;
+    height: 50px;
     border-radius: 50%;
     cursor: pointer;
 }
 
 .Search button img {
-    width: 80%;
+    width: 70%;
 }
 
 .winfo .icon{
